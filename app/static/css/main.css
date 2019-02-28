@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    margin: 10px auto 50px;
+    justify-content: flex-end;
+}
+.container-1 a{
+    margin:10px;
+    text-decoration: none;
+}
+
+.container-2{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.container img, input{
+    margin-bottom: 15px;
+}
+.name{
+    height: 40px;
+    border-color: gainsboro;
+    border: 1% ;
+}
+.button{
+    height: 30px;
+    background-color: gainsboro;
+    border: none;
+    width: 80%;
+    margin: auto;
+}
