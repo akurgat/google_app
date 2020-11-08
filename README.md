@@ -1,4 +1,4 @@
-#Google Search
+# Google Search
 
 A replica of the google search page.
 When input is keyed in it displayes an alert containing the input.
